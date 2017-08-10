@@ -1,0 +1,22 @@
+{
+  "name": "element-gh-pages",
+  "version": "1.0.0",
+  "description": "Document of element",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ShowJoy/element-gh-pages.git"
+  },
+  "keywords": [
+    "element"
+  ],
+  "author": "showjoy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ShowJoy/element-gh-pages/issues"
+  },
+  "homepage": "https://github.com/ShowJoy/element-gh-pages#readme"
+}
