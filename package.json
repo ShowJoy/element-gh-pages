@@ -1,6 +1,6 @@
 {
   "name": "element-gh-pages",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Document of element",
   "main": "index.js",
   "scripts": {
